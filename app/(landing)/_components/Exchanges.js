@@ -5,7 +5,7 @@ const exchanges = [
   {
     flag: "PumpFun",
     title: "Check",
-    link: "https://dexscreener.com/solana/8RXsUTQd8q7oSNP37L6V7AxjCctztJij57x9kGDCpump",
+    link: "https://pump.fun/coin/8RXsUTQd8q7oSNP37L6V7AxjCctztJij57x9kGDCpump",
   },
   // {
   //   flag: "Binance",
