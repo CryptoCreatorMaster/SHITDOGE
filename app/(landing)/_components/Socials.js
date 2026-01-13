@@ -8,12 +8,12 @@ const cards = [
     icon: "Telegram",
   },
   {
-    link: "https://x.com/",
+    link: "https://x.com/ShitDOGEcoin",
     title: "x",
     icon: "X",
   },
   {
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/shitdogecoin",
     title: "Instagram",
     icon: "Instagram",
   },
@@ -23,7 +23,7 @@ const cards = [
     icon: "Youtube",
   },
   {
-    link: "https://www.tiktok.com/",
+    link: "https://www.tiktok.com/ShityDOGE",
     title: "Tiktok",
     icon: "Tiktok",
   },
