@@ -23,7 +23,7 @@ const cards = [
     icon: "Youtube",
   },
   {
-    link: "https://www.tiktok.com/ShityDOGE",
+    link: "https://www.tiktok.com/@ShityDOGE",
     title: "Tiktok",
     icon: "Tiktok",
   },
