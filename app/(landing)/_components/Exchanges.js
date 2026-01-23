@@ -5,12 +5,12 @@ const exchanges = [
   {
     flag: "PumpFun",
     title: "Check",
-    link: "https://pump.fun/coin/8RXsUTQd8q7oSNP37L6V7AxjCctztJij57x9kGDCpump",
+    link: "https://pump.fun/coin/Dt7eHKo5N1oywCBjbr4wT7kJx3ab6FTnd7nQGjvwpump",
   },
   // {
   //   flag: "Binance",
   //   title: "Binance",
-  //   link: "https://pump.fun/coin/8RXsUTQd8q7oSNP37L6V7AxjCctztJij57x9kGDCpump",
+  //   link: "https://pump.fun/coin/Dt7eHKo5N1oywCBjbr4wT7kJx3ab6FTnd7nQGjvwpump",
   // },
 ];
 
